@@ -112,6 +112,7 @@ public class BinaryTreeTraversal {
         System.out.println();
     }
 }
+```
 
 ## Iterative Methods for Tree Traversals
 ```java
