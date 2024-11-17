@@ -1,3 +1,4 @@
+## Example Tree:
 ```
         1
        / \
@@ -111,6 +112,21 @@ public class BinaryTreeTraversal {
         System.out.println();
     }
 }
+
+```
+## Output for the Given Example:
+```sql
+Pre-order Traversal:
+1 2 4 5 3 6
+
+In-order Traversal:
+4 2 5 1 3 6
+
+Post-order Traversal:
+4 5 2 6 3 1
+
+Level-order Traversal:
+1 2 3 4 5 6
 
 ```
 
